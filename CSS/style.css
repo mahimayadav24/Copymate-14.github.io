@@ -70,7 +70,7 @@ body, html {
 }
 
 .content__div h2 {
-    font-size: calc(21pt + 0.15vw);
+    font-size: calc(24pt + 0.15vw);
     color: #ff7070;
     font-family: 'Poppins__Bold';
     letter-spacing: 0.03em;
